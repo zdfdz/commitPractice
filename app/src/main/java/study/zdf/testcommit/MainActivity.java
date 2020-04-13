@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
         Log.i("zdf", "01");
         Log.i("zdf", "02");
         Log.i("zdf", "05");
+        Log.i("zdf","test 06");
+        Log.i("zdf","test 07");
+
     }
 }
